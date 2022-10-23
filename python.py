@@ -84,29 +84,4 @@ Label(f4,text="Image File",bg="#2D2D34",fg="#F1E4E8").place(x=20,y=5)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 root.mainloop
